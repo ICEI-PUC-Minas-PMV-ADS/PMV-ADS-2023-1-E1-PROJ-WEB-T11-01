@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Gabriel Oliveira
-* Guilherme MArtins
+* Guilherme Martins
 * Israel Moreira
 * Cesar Augusto
 
